@@ -1,4 +1,4 @@
-# Laravel 6 IPAMS
+# PA-TFS
 
 Transformed free Bootstrap theme called [TheEvent](https://bootstrapmade.com/theevent-conference-event-bootstrap-template/) into fully manageable Laravel project with adminpanel, 
 to manage all the sections from event's homepage.
